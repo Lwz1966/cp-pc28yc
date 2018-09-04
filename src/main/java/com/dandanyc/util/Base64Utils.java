@@ -1,8 +1,6 @@
 
 package com.dandanyc.util;
 
-import com.sun.org.apache.xml.internal.security.utils.Base64;
-
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.File;
@@ -10,6 +8,8 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.InputStream;
 import java.io.OutputStream;
+
+import com.sun.org.apache.xml.internal.security.utils.Base64;
 
 
 /**
