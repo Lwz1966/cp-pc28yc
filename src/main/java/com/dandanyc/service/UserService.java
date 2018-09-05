@@ -4,7 +4,7 @@ package com.dandanyc.service;
 import com.dandanyc.entity.User;
 
 /**
- * Created by prothezou on 2016/12/31.
+ * @Author LiWen
  */
 
 public interface UserService {

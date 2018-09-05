@@ -6,7 +6,7 @@ import org.apache.commons.logging.LogFactory;
 import java.util.*;
 
 /**
- * Created by prothezou on 2016/12/24.
+ * @Author LiWen 
  */
 public class KenoUtil {
 

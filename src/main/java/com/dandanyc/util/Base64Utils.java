@@ -20,7 +20,7 @@ import com.sun.org.apache.xml.internal.security.utils.Base64;
  * 依赖javabase64-1.3.1.jar
  * </p>
  *
- * @author IceWee
+ * @author LiWen
  * @version 1.0
  * @date 2012-5-19
  */

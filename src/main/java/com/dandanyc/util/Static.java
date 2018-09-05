@@ -1,7 +1,7 @@
 package com.dandanyc.util;
 
 /**
- * Created by prothezou on 2016/10/29.
+ * @Author LiWen
  */
 public class Static {
 

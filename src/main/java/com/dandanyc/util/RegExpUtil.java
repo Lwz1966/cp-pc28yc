@@ -3,7 +3,7 @@ package com.dandanyc.util;
 import java.util.regex.Pattern;
 
 /**
- * Created by prothezou on 2017/2/7.
+ * @Author LiWen
  */
 public class RegExpUtil {
 

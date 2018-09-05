@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.Random;
 
 /**
- * Created by prothezou on 2016/12/23.
+ * @Author LiWen 
  */
 public class CanadaUtil {
 
@@ -20,7 +20,6 @@ public class CanadaUtil {
 
     /**
      * 获取加拿大开奖数据
-     *
      * @return
      */
     public static List<CanadaDTO> getCanadaInfo() {

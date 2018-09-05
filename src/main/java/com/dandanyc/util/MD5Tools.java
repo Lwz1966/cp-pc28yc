@@ -3,7 +3,7 @@ package com.dandanyc.util;
 import java.security.MessageDigest;
 
 /**
- * Created by prothezou on 2017/2/7.
+ * @Author LiWen 
  */
 public class MD5Tools {
 

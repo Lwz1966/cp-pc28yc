@@ -94,12 +94,12 @@
 <div id="ban">
     <ul class="list-inline" style="text-align: center;padding-top: 6px;">
         <li>
-            <button type="button" class="btn" onclick="window.location.href='/'">
+            <button type="button" class="btn" onclick="window.location.href='/dandanyc'">
                 主页
             </button>
         </li>
         <li>
-            <button type="button" class="btn" onclick="window.location.href='/Canada/CanadaTrend.html'">
+            <button type="button" class="btn" onclick="window.location.href='${pageContext.request.contextPath}/Canada/CanadaTrend.html'">
                 刷新
             </button>
         </li>

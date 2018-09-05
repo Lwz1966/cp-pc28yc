@@ -120,17 +120,17 @@
 <div id="ban">
     <ul class="list-inline" style="text-align: center;padding-top: 6px;">
         <li>
-            <button type="button" class="btn" onclick="window.location.href='/'">
+            <button type="button" class="btn" onclick="window.location.href='/dandanyc'">
                 主页
             </button>
         </li>
         <li>
-            <button type="button" class="btn" onclick="window.location.href='/Canada/CanadaDxYuceChange.html'">
+            <button type="button" class="btn" onclick="window.location.href='${pageContext.request.contextPath}/Canada/CanadaDxYuceChange.html'">
                 更换算法
             </button>
         </li>
         <li>
-            <button type="button" class="btn" onclick="window.location.href='/Canada/CanadaDxYuce.html'">
+            <button type="button" class="btn" onclick="window.location.href='${pageContext.request.contextPath}/Canada/CanadaDxYuce.html'">
                 刷新
             </button>
         </li>

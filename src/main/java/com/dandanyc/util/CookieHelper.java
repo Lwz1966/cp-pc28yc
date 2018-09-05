@@ -5,7 +5,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * @author carrkevin
+ * @author LiWen
  * @version v 0.1
  * @Package: com.xxxxx.common.util
  * @Title: Cookie.java Create on 2012-1-25 下午5:23:52

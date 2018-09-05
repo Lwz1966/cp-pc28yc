@@ -5,9 +5,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * @author cevencheng <cevencheng@gmail.com> www.zuidaima.com
- * @project baidamei
- * @create 2012-11-15 下午4:54:42
+ * @author LiWen
  */
 public class RegexUtils {
 

@@ -8,7 +8,7 @@ import java.io.FileOutputStream;
 import java.io.InputStream;
 import java.util.Properties;
 /**
- * Created by prothezou on 2016/10/29.
+ * @Author LiWen
  */
 public class PropertiesUtil {
 

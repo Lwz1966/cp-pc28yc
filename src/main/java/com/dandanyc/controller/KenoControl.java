@@ -13,7 +13,7 @@ import java.util.List;
 import java.util.Random;
 
 /**
- * Created by prothezou on 2016/12/24.
+ * @Author LiWen 
  */
 @Controller
 @RequestMapping("/Keno")

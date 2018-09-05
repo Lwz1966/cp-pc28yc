@@ -1,7 +1,7 @@
 package com.dandanyc.entity;
 
 /**
- * Created by prothezou on 2016/12/24.
+ * @Author LiWen 
  */
 public class KenoDTO {
 
